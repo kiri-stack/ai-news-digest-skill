@@ -1,5 +1,7 @@
 # AI News Digest Skill
 
+[English](./README.en.md)
+
 一个面向 **AI 最新资讯追踪** 的 Codex Skill。
 
 它不是简单的“新闻抓取脚本”，而是一套从 **高可信信源筛选**、到 **中文日报生成**、再到 **网页化归档发布** 的完整工作流。
