@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI News Digest"
+  short_description: "Fetch and summarize the latest AI news with citations."
+  default_prompt: "Use $ai-news-digest to gather the latest AI news from primary sources and produce a concise Chinese digest."
